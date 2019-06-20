@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ilusionario </title>
+        <meta charset="utf-8">
+        <style>
+        
+        body{background-color:rgb(235, 206, 240);font-family:sans-serif;}
+    
+        h1{font-family:fantasy;}
+        h2{color:rgb(117, 180, 235);font-family:cursive;}
+        h3{font-family:cursive;}
+        </style>
+    </head>
+    <body>
+       
+        <h1>Ilusionario</h1>
+        
+        <h2>Contenido:</h2>
+        
+        <ol>
+            <li>Soñamos</li>
+            <li>Recuerdos</li>
+            <li>Mágia</li>
+        </ol>
+        <h3>Soñamos</h3>
+        <p> Todos tenemos sueños en la vida, situacione que deseamos perdidamente realizar y millones de momentos y pensamientos que queremos terminar, esto es lo que las personas cordialmente denominan "sueños". A veces se consiguen realizar y otras veces no, al fin y al cabo lo único que nos queda por cumplir son nuestros más sinceros deseos y solo luchando sin parar lo podremos lugar. 
+        <p>Siempre hay caídas momentos en los que creemos que no seremos capaces de seguir caminando y en pie, solo que es en ese preciso momento en que unos deciden rendirse y otros seguir luchando y avanzando sin parar a pesar de las avismos y las barreras. Al fin y al cabo reside en ti la decisión. Y cuando sientas que no te dan las fuerzas, piensa en todo aquello que quieres conseguir y en todas esas veces que ya te has levantado.
+        <h3>Recuerdos</h3>
+        <p> Como una llama en el peco, tu recuerdo me quema. Cada paso que día y que no estás a mi lado, cada sitio que visito y tu recuerdo me invade, cada momento en el que te cruzas de nuevo en mi camino y me vuelvo tan pequeña que casi desaparezco de la faz de la tierra. Hace mucho quise que desaparecieras y aún no lo hiciste, a día de hoy me he dado cuenta que por más que tú y tu recuerdo duelan no quiero que desaparezcas, no es eso lo que quiero, quiero que dejes de doler aunque tu recuerdo permanezca y tu intentes volver.
+       <h3>Mágia</h3> 
+       <p>Era mágia
+       <p>Sé que lo era, me quedé embobado mirando ese hermoso momento y entonces ocurrió. 
+Parecía que flotaba o quizás que sus movimientos se realizaban bajo el agua, porque eran lentos, o quizás ami se me paralizó el tiempo y todo era a cámara lenta, para vivir mejor el momento para solo ser ella y yo entre toda esa gente. A decir verdad no lo se pero estaba ahí tan real y a la vez tan volatil, que de un parpadeo podría desaparecer. 
+Y entonces giró y sentí como si una brisa se levantase, me quitase el pelo de la cara y me hiciese verla en su máximo esplendor. Saltó, se desplazó con sus ojos cerrados y esquivando a las personas por el sonido de sus pasos y entonces sin esperarlo ahí estaba. De un giro estiró su cuerpo, como si de una muñequita de las cajas de música se tratase, estiró sus brazos al cielo, su torso envuelto en el vestido erguido, sus piernas rectas acabadas en esas zapatillas rosadas de puntas planas sobre el suelo, y sin abrir sus ojos ni mover más que sus pies para pasar a tener las plantas en el suelo una ante otra en horizontal. Paralizado y perplejo la miraba con esa pose tan perfecta y abrió sus ojos al notar el calor de una respiración en mi rostro. Y ahí estaba yo a centímetros de ella, nuestras miradas entrelazadas embueltas en sus preciosa pose  y era magia. Sonrió y creo que ahí acabó por embaucarme, sonrió y creo que me perdí en su sonrisa y su mirada y aún no escapé de ella. Bajó sus brazos haciendo una circunferencia con ellos. Flexionó la rodilla izquierda y estiró sin levantar las puntas de sus zapatos y en un rápido movimiento giró la pierna hacia atrás y sus brazos a sus laterales completamente rectos perpendicularmente a su tronco erguido, como si hiciese una reverencia flexionó el tronco desde la cadera sin perder la postura y dando un salto girando se perdió en la multitud.
+    </body>
+</html>
