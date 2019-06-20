@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Libro de recetas</title>
+        <meta charset="utf-8">
+        <style>
+        th{color:rgb(224, 112, 224);}
+        tr{color:rgb(88, 84, 184);}
+        
+        body{background-color:rgb(201, 245, 179);}
+        h3{color:rgb(33, 73, 232);}
+        h2{color:rgb(224, 33, 141);}
+        </style>
+    </head>
+    <body>
+       
+        <h1>Libro de recetas</h1>
+        
+        <h2>Contenido:</h2>
+        
+        <ol>
+            <li><a href="?">Tortitas</a></li>
+            <li><a href="?">Donut</a></li>
+            <li><a href="?">Alfajor</a></li>
+        </ol>
+        
+        <h2 id="?">Tortitas</h2>
+        
+        <ul>
+            <li>Tiempo:10min</li>
+            <li>Personas:2-3</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredientes
+                    </th>
+                    <th>Cantidad</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>huevos
+                <td>2
+            </tr>
+            <tr>
+                <td>mantequilla sin sal</td>
+                <td>50g</td>
+            </tr>
+            <tr>
+                <td>leche</td>
+                <td>250ml</td>
+            </tr>
+            <tr>
+                <td>azúcar</td>
+                <td>50g</td>
+            </tr>
+            <tr>
+                <td>harina</td>
+                <td>200g</td>
+            </tr>
+            <tr>
+                <td>levadura</td>
+                <td>1 cucharadita</td>
+            </tr>
+            <tr>
+                <td>mantequilla</td>
+                <td>un poco en la sartén</td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Paso 1:</strong>Mezclar todos los ingredientes en un recipiente.
+</p>
+        <p><strong>Paso 2:</strong>Añade la mantequilla derretida al microondas y a continuación la leche.
+</p>
+<p><strong>Paso 3:</strong> Mezcla en un bol aparte la harina con la levadura e incorporálas a la mezcla tamizando bien.
+</p>
+<p><strong>Paso 4:</strong>Bate las claras a punto de nieve y cuando estén bien firmes, incorpóralas a la mezcla con movimientos suaves y envolventes. Si quieres añadir trocitos de chocolate, frutos secos o lo que te apetezca, este es el momento. Al final de todo el proceso. 
+</p>
+<p><strong>Paso 5:</strong> Coge un poco de mantequilla y pásala un poco por la sartén para engrasarla. Cuando esté bien caliente, vierte la masa en la sartén, dejándola caer para que queden redondas. Las tortitas no necesitan mucho tiempo para hacerse. En apenas unos minutos, vuelta y vuelta, ya las tienes listas. Deja que se haga por un lado un par de minutos, dale la vuelta con la espátula y lo mismo. El tiempo depende de la fuerza del fuego. Es cuestión de ir pillando el truco. Estarán listas cuando las veas doraditas, incluso un poco más de lo que aparecen en la fotografía.
+</p>
+
+<h2 id="?">Donut</h2>
+<ul>
+            <li>Tiempo:30min</li>
+            <li>Personas:Depende del tamaño del molde</li>
+        </ul>
+        <h3>Masa madre</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredientes
+                    </th>
+                    <th>Cantidad</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>harina
+                <td>140g
+            </tr>
+            <tr>
+                <td>agua tibia</td>
+                <td>90g</td>
+            </tr>
+            <tr>
+                <td>levadura</td>
+                <td>3g</td>
+            </tr>
+            </tbody>
+        </table>
+        <h3>Masa donut</h3>
+<table>
+            <thead>
+                <tr>
+                    <th>Ingredientes
+                    </th>
+                    <th>Cantidad</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>levadura 
+                <td>20g
+            </tr>
+            <tr>
+                <td>leche</td>
+                <td>15g</td>
+            </tr>
+            <tr>
+                <td>azúcar</td>
+                <td>30g</td>
+            </tr>
+            <tr>
+                <td>harina</td>
+                <td>150g</td>
+            </tr>
+            <tr>
+                <td>yema de huevo</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>mantequilla</td>
+                <td>60g</td>
+            </tr>
+            <tr>
+                <td>sal</td>
+                <td>una pizca</td>
+            </tr>
+            <tr>
+                <td>aceite para freir</td>
+                <td></td>
+            </tr>
+            </tbody>
+        </table>
+<p><strong>Paso 1:</strong> Empezaremos realizando la masa madre. Para ello disuelve la levadura con el agua tibia y a continuación añade la harina. Puedes amasar con las manos directamente. Tapa la masa con un trapo, déjala en un sitio seco, sin corrientes de aire y con una temperatura de 20 grados aproximadamente y deja que repose una hora. La masa, como ves en las imágenes, debe doblar su volumen.
+</p>
+        <p><strong>Paso 2:</strong> Pasada la hora, cuando tengamos la masa madre lista, toca el momento de preparar la masa de los donuts.Disuelve la levadura en la leche y a continuación añade la harina. Incorpora la masa madre, bate las yemas y ve añadiéndolas poco a poco, esperando a que se integre bien cada huevo y por último añade el azúcar y la pizca de sal.
+</p>
+<p><strong>Paso 3:</strong> Amasa, con las manos o con un robot de cocina, hasta que tengas todos los ingredientes bien integrados y para terminar definitivamente la masa, incorpora la mantequilla reblandecida a temperatura ambiente. Amasa hasta que consigas una masa elástica y un poco pegajosa.
+</p>
+<p><strong>Paso 4:</strong> Al igual que con la masa madre, tapa la masa con un trapo, déjala en un sitio seco, sin corrientes de aire y con una temperatura de 20 grados aproximadamente y deja que repose una hora. La masa, como ves de nuevo en las imágenes, debe doblar su volumen.
+
+ 
+</p>
+<p><strong>Paso 5:</strong>Cuando tengamos la masa lista podremos estirarla con un rodillo. Si sientes que la masa está demasiado pringosa estírala en papel de horno y enharina un poco el rodillo. Deja la masa con un grosor aproximado de un centímetro y corta cada donut. Existen cortadores especiales para donuts, pero puedes usar, por ejemplo,un molde redondo y una boquilla como hice yo.
+De nuevo debes dejar reposar los donuts una hora antes de freírlos. Tápalos con un trapo y deja que aumenten su volumen.
+</p>
+<p><strong>Paso 6:</strong>Mientras esperamos que la masa leve, puedes ir preparando el glaseado. No tienes más que disolver el azúcar glas con el agua. Debe tener una consistencia cremosa, sin ser excesivamente líquido. Puedes añadirle unas gotitas de vainilla, pero esto es algo opcional. Otra opción es glasear los donuts con chocolate derretido, decorarlos con fideos de colores, teñir la glasa de azúcar de colores, etc.
+  
+
+
+</p>
+<p><strong>Paso 7:</strong>Para freír los donuts es mejor que uses un cazo profundo, para que los donuts floten. Pon el fuego a temperatura media y ve friendolos uno a uno. Bastará con que se doren ligeramente por los dos lados. Ten cuidado con los tiempos ya que se queman con mucha facilidad. Cuando los frias colócalos primero sobre papel de cocina para que absorvan el exceso de aceite.
+  
+
+
+</p>
+<p><strong>Paso 8:</strong>Añadir glaseado o chocolate
+  
+
+
+</p>
+<h2 id="?">Donut</h2>
+<ul>
+            <li>Tiempo:30min</li>
+            <li>Personas:12unidades</li>
+        </ul>
+
+
+<table>
+            <thead>
+                <tr>
+                    <th>Ingredientes
+                    </th>
+                    <th>Cantidad</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>mantequilla
+                <td>200g
+            </tr>
+            <tr>
+                <td>harina</td>
+                <td>150g</td>
+            </tr>
+            <tr>
+                <td>maizena</td>
+                <td>300g</td>
+            </tr>
+             <tr>
+                <td>azúcar</td>
+                <td>125g</td>
+            </tr>
+             <tr>
+                <td>yemas de huevo</td>
+                <td>3</td>
+            </tr>
+             <tr>
+                <td>esencia de vainilla</td>
+                <td>1 cucharadita</td>
+            </tr> <tr>
+                <td>ralladura de limón</td>
+                <td>1 cucharadita</td>
+            </tr> <tr>
+                <td>levadura</td>
+                <td>3g</td>
+            </tr> <tr>
+                <td>levadura</td>
+                <td>1 cucharadita</td>
+            </tr> <tr>
+                <td>dulce de leche para relleno</td>
+                <td></td>
+            </tr> <tr>
+                <td>coco rallado para el exterior</td>
+                <td></td>
+            </tr>
+            </tbody>
+        </table>
+<p><strong>Paso 1:</strong> Bate la mantequilla reblandecida a temperatura ambiente con el azúcar, hasta que quede una mezcla esponjosa y la mantequilla quede más blanquecina</p>
+<p><strong>Paso 2:</strong>A continuación añade las yemas asegurándote que se mezclan bien con la mantequilla. Es momento también de poner la vainilla y la ralladura de limón.</p>
+<p><strong>Paso 3:</strong>Mezcla en un bol aparte la harina de trigo, de maicena y la levadura, para añadirla después a la masa en tandas, batiendo primero a velocidad baja y terminando a velocidad alta.</p>
+<p><strong>Paso 4:</strong>Cuando tengas la masa lista estírala entre dos papeles de horno con la ayuda de un rodillo. Procura que toda la masa quede con el mismo grosor. Este es un punto muy importante. Para conseguirlo tienes dos formas, o comprarte un rodillo especial con topes a los lados para graduar el grosor de la galleta, o utilizar dos varillas del mismo grosor, ponerlas a cada lado de la masa, y amasar con ellas haciendo tope.</p>
+<p><strong>Paso 5:</strong> Deja que la masa repose en la nevera un par de horas. Esto es  importante para que al cortar y hornear las galletas, la masa no se deforme.</p>
+<p><strong>Paso 6:</strong>Las galletas se hornean a 180º C con calor arriba y abajo durante 10 minutos aproximadamente. El tiempo depende del grosor y tamaño de la galleta. Las galletas no son como los bizcochos donde está absolutamente prohibido abrir el horno antes de tiempo. Aquí podemos ir mirando de vez en cuando. No dejes que las galletas se tuesten demasiado, tienen que quedar blanquitas. Fíjate cómo han quedado las mías.</p>
+<p><strong>Paso 7:</strong> Una vez estén hechas, sácalas del horno y deja que enfríen por completo sobre una rejilla.</p>
+<p><strong>Paso 8:</strong> Rellena con el dulce de leche. Puedes hacerlo de forma rudimentaria con una cuchara, o puedes valerte de una manga pastelera como hice yo.</p>
+<p><strong>Paso 9:</strong>Pon en un platito un poco de coco rallado y pasa los bordes de la galleta para que se pegue al dulce de leche.
+</p>
+
+    <p><em>Source: <a href="?">
+    www.dulcesentimiento.com/receta-de-alfajores-argentinos/
+       
+       
+        www.dulcesentimiento.com/receta-de-donuts-caseros/
+       
+       
+        www.dulcesentimiento.com/mejor-receta-tortitas-americanas/
+    </a></em></p>
+    
+    </body>
+</html>
